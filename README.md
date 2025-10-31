@@ -29,7 +29,7 @@
   <br>
   🔭 I’m currently working on https://middaytr.me/
   <br>
-  📚 I'm currently learning PL/SQL and OOP
+  📚 I'm currently learning PL/SQL, Php and OOP
   <br>
   📫 How to reach me: <a href="mailto: talhaubeyd51@gmail.com">talhaubeyd51@gmail.com</a>
 </p>
